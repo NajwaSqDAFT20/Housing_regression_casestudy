@@ -12,8 +12,8 @@ Housing prices are affected by several factors, external and internal. External 
 We are looking into the internal factors provided by the dataset (19 feature variables available in the dataset). 
 
 # Objectives:
-* 1. Building a model that will predict the price of a house;
-* 2. Understanding the factors/features that are responsible for higher property value >= $650K
+* Building a model that will predict the price of a house;
+* Understanding the factors/features that are responsible for higher property value >= $650K
 
 # Data Source:
 THe dataset for the project is provided by Ironhack. However, the dataset is publicly available on https://info.kingcounty.gov/assessor/DataDownload/default.aspx or on Kaggle https://www.kaggle.com/harlfoxem/housesalesprediction.
