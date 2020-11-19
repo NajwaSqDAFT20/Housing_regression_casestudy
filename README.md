@@ -1,10 +1,10 @@
 # Project: Housing Price Prediction in King County, USA 
 
 This is a mid Project for the Data Analytics Bootcamp at Ironhack, Berlin. In this repo, you can find all the deliverables: 
-*Python File named 'Housing_case_study.ipynb'
-*Dataset/datasets named 'regression_data_clean.csv'
-*Tableau workbook named 'Housing_Prices_Tableau.twb'
-*File containing SQL queries named 'housing_casestudy.sql'
+* Python File named 'Housing_case_study.ipynb'
+* Dataset/datasets named 'regression_data_clean.csv'
+* Tableau workbook named 'Housing_Prices_Tableau.twb'
+* File containing SQL queries named 'housing_casestudy.sql'
 
 
 # Introduction:
