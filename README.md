@@ -1,10 +1,10 @@
 # Project: Housing Price Prediction in King County, USA 
 
 This is a mid Project for the Data Analytics Bootcamp at Ironhack, Berlin. In this repo, you can find all the deliverables: 
-*Python File named 'Housing_case_study.ipynb'
-*Dataset/datasets named 'regression_data_clean.csv'
-*Tableau workbook named 'Housing_Prices_Tableau.twb'
-*File containing SQL queries named 'housing_casestudy.sql'
+* Python File named 'Housing_case_study.ipynb'
+* Dataset/datasets named 'regression_data_clean.csv'
+* Tableau workbook named 'Housing_Prices_Tableau.twb'
+* File containing SQL queries named 'housing_casestudy.sql'
 
 
 # Introduction:
@@ -12,8 +12,8 @@ Housing prices are affected by several factors, external and internal. External 
 We are looking into the internal factors provided by the dataset (19 feature variables available in the dataset). 
 
 # Objectives:
-* 1. Building a model that will predict the price of a house;
-* 2. Understanding the factors/features that are responsible for higher property value >= $650K
+* Building a model that will predict the price of a house;
+* Understanding the factors/features that are responsible for higher property value >= $650K
 
 # Data Source:
 THe dataset for the project is provided by Ironhack. However, the dataset is publicly available on https://info.kingcounty.gov/assessor/DataDownload/default.aspx or on Kaggle https://www.kaggle.com/harlfoxem/housesalesprediction.
@@ -36,7 +36,8 @@ The dataset contains information on historic house sale prices for 22,000 proper
 * I also would like to analyse the effect of increasing prices on accessing to housing. 
 
 # References:
-https://www.researchgate.net/publication/342302491_Housing_Market_Prediction_Problem_using_Different_Machine_Learning_Algorithms_A_Case_Study https://thesai.org/Downloads/Volume8No10/Paper_42-Modeling_House_Price_Prediction_using_Linear_Regression.pdf https://www.ijitee.org/wp-content/uploads/papers/v8i9/I7849078919.pdf
+* https://www.researchgate.net/publication/342302491_Housing_Market_Prediction_Problem_using_Different_Machine_Learning_Algorithms_A_Case_Study 
+* https://thesai.org/Downloads/Volume8No10/Paper_42-Modeling_House_Price_Prediction_using_Linear_Regression.pdf https://www.ijitee.org/wp-   content/uploads/papers/v8i9/I7849078919.pdf
 
 
 
