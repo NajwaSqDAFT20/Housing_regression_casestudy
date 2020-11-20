@@ -5,6 +5,7 @@ This is a mid Project for the Data Analytics Bootcamp at Ironhack, Berlin. In th
 * Dataset/datasets named 'regression_data_clean.csv'
 * Tableau workbook named 'Housing_Prices_Tableau.twb'
 * File containing SQL queries named 'housing_casestudy.sql'
+* Presentaion in the presentation file. Tableau story on (https://public.tableau.com/profile/najwa6600#!/vizhome/Housing_Prices_Tableau/Story1?publish=yes)
 
 
 # Introduction:
