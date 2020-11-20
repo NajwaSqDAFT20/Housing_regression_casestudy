@@ -17,7 +17,7 @@ We are looking into the internal factors provided by the dataset (19 feature var
 * Understanding the factors/features that are responsible for higher property value >= $650K
 
 # Data Source:
-THe dataset for the project is provided by Ironhack. However, the dataset is publicly available on https://info.kingcounty.gov/assessor/DataDownload/default.aspx or on Kaggle https://www.kaggle.com/harlfoxem/housesalesprediction.
+THe dataset for the project is provided by Ironhack. However, the dataset is publicly available [here](https://info.kingcounty.gov/assessor/DataDownload/default.aspx) or on [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction).
 The dataset contains information on historic house sale prices for 22,000 properties in Kingcounty, USA between 2014 and 2015. 
 
 # Approach:
@@ -37,7 +37,7 @@ The dataset contains information on historic house sale prices for 22,000 proper
 * I also would like to analyse the effect of increasing prices on accessing to housing. 
 
 # References:
-* [Housing Market Prediction Problem using Different Machine Learning Algorithms: A Case Study(https://www.researchgate.net/publication/342302491_Housing_Market_Prediction_Problem_using_Different_Machine_Learning_Algorithms_A_Case_Study)
+* [Housing Market Prediction Problem using Different Machine Learning Algorithms: A Case Study](https://www.researchgate.net/publication/342302491_Housing_Market_Prediction_Problem_using_Different_Machine_Learning_Algorithms_A_Case_Study)
 * [Modeling House Price Prediction using Regression Analysis and Particle Swarm Optimization](https://thesai.org/Downloads/Volume8No10/Paper_42-Modeling_House_Price_Prediction_using_Linear_Regression.pdf)
 
 
