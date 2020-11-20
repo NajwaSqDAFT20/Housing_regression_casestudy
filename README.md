@@ -37,8 +37,8 @@ The dataset contains information on historic house sale prices for 22,000 proper
 * I also would like to analyse the effect of increasing prices on accessing to housing. 
 
 # References:
-* [Housing Market Prediction Problem using Different Machine Learning Algorithms: A Case Study] (https://www.researchgate.net/publication/342302491_Housing_Market_Prediction_Problem_using_Different_Machine_Learning_Algorithms_A_Case_Study)
-* [Modeling House Price Prediction using Regression Analysis and Particle Swarm Optimization] (https://thesai.org/Downloads/Volume8No10/Paper_42-Modeling_House_Price_Prediction_using_Linear_Regression.pdf)
+* [Housing Market Prediction Problem using Different Machine Learning Algorithms: A Case Study(https://www.researchgate.net/publication/342302491_Housing_Market_Prediction_Problem_using_Different_Machine_Learning_Algorithms_A_Case_Study)
+* [Modeling House Price Prediction using Regression Analysis and Particle Swarm Optimization](https://thesai.org/Downloads/Volume8No10/Paper_42-Modeling_House_Price_Prediction_using_Linear_Regression.pdf)
 
 
 
