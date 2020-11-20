@@ -6,6 +6,7 @@ This is a mid Project for the Data Analytics Bootcamp at Ironhack, Berlin. In th
 * Tableau workbook named 'Housing_Prices_Tableau.twb'
 * File containing SQL queries named 'housing_casestudy.sql'
 * Presentaion in the presentation file. Tableau story [here](https://public.tableau.com/profile/najwa6600#!/vizhome/Housing_Prices_Tableau/Story1?publish=yes)
+* Note that the presentation was presented to a friend of mine who had no technical background. 
 
 
 # Introduction:
