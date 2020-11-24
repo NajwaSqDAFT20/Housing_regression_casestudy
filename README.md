@@ -18,7 +18,7 @@ We are looking into the internal factors provided by the dataset (19 feature var
 * Understanding the factors/features that are responsible for higher property value >= $650K
 
 # Data Source:
-THe dataset for the project is provided by Ironhack. However, the dataset is publicly available [here](https://info.kingcounty.gov/assessor/DataDownload/default.aspx) or on [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction).
+The dataset for the project is provided by Ironhack. However, the dataset is publicly available [here](https://info.kingcounty.gov/assessor/DataDownload/default.aspx) or on [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction).
 The dataset contains information on historic house sale prices for 22,000 properties in Kingcounty, USA between 2014 and 2015. 
 
 # Approach:
@@ -33,7 +33,7 @@ The dataset contains information on historic house sale prices for 22,000 proper
 * Iterate
 
 # Next steps:
-* Due to time constraints, I could not test advanced models on the linear regression model. For future work, I would like to implemnt a forest tree model and Lasso.
+* Due to time constraints, I could not test advanced models on the linear regression model. For future work, I would like to implement a forest tree model and Lasso.
 * Since the price of houses relies on different and multiple factors (internally and externally), I would like to have a look into other external elements (economic growth, GDP, unemployment, access to facilities, government policies (subsidies/ tax deduction) and interest rate).
 * I also would like to analyse the effect of increasing prices on accessing to housing. 
 
